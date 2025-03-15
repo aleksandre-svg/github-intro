@@ -8,11 +8,11 @@
 
 <div align="center">
     
-🤑 Future backend developer 😎😉
+🤑 Future front-end developer 😎😉
 
 💬 Ask me about Help if you need
 
-📫 How to reach me androsvanidze2008.com
+
 
  </div>
  <h3 align="left">Connect with me:</h3>
